@@ -4,11 +4,11 @@ blog post with more details: http://www.gregjopa.com/2011/08/html5-cloud-compose
 
 This HTML5 Cloud Composer app was originally designed during Google's HTML5 Hackathon in Chicago in August 2011.
 
-We attempted to develop something similar to the "Maestro" app for Android using HTML5 technologies.
+We attempted to develop something similar to the " Maestro " app for Android using HTML5 technologies.
 Maestro app: https://market.android.com/details?id=com.revelli.maestro
 
 
-Cloud Composer app features:
+Cloud Composer app features:-
 
 Add Note - use the select menus to choose the note name, accidental, octave, and duration for a note and then click the add/edit note button to add the new note to the canvas. The red cursor needs to be highlighting the next available spot on the canvas in order to add a new note. You can click to the right of the last existing note on the canvas to select the next available spot.
 
